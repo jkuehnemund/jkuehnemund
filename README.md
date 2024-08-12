@@ -1,5 +1,5 @@
 ## Hi 👋
 
-🌱 I’m currently learning the basis of GitHub.
+🌱 I’m currently learning the basics of GitHub.
 
 
